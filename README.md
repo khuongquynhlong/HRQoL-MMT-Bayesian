@@ -4,7 +4,7 @@
 
 #### **Author:** Khuong Quynh Long, Ong Phuc Thinh, Trinh Thi Kim Thao, Nguyen Van Huy, Vu Thi Hoang Lan, Vu Quynh Mai, Hoang Van Minh
 
-- [x] [R script](https://github.com/khuongquynhlong/HRQoL-MMT-Bayesian/blob/master/QoL%20among%20MMT%20patient.R)
-- [x] [DAGs code](https://github.com/khuongquynhlong/HRQoL-MMT-Bayesian/blob/master/Figure%202_%20DAGs_code.txt) for generating _**Figure 2**_ from [DAGitty software](http://www.dagitty.net). 
+- [x] [R script](https://github.com/khuongquynhlong/HRQoL-MMT-Bayesian/blob/master/QoL_MMT_Bayesian.R)
+- [x] [DAGs code](https://github.com/khuongquynhlong/HRQoL-MMT-Bayesian/blob/master/Figure%202_DAGs_code.txt) for generating _**Figure 2**_ from [DAGitty software](http://www.dagitty.net). 
 
 For more information, please contact Khuong Quynh Long at kql@huph.edu.vn
