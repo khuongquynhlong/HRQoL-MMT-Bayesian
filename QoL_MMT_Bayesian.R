@@ -1,3 +1,9 @@
+#===============================================================================
+# R code for the paper:
+# Relationship Between Family Functioning and Health-Related Quality of Life
+# among Methadone Maintenance Patients: A Bayesian Approach
+#===============================================================================
+
 library(tidybayes)
 library(tidyverse)
 library(magrittr)
