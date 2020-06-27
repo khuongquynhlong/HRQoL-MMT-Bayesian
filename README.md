@@ -2,7 +2,7 @@
 
 ### _**Relationship Between Family Functioning and Health-Related Quality of Life among Methadone Maintenance Patient: A Bayesian Approach**_
 
-**Author:** Khuong Quynh Long, Ong Phuc Thinh, Trinh Thi Kim Thao, Nguyen Van Huy, Vu Thi Hoang Lan, Vu Quynh Mai, Hoang Van Minh
+**Author:** This manuscript is being reviewed
 
 Link to the journal (Updating)
 
