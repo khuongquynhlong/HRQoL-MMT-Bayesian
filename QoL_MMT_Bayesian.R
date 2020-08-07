@@ -1,7 +1,14 @@
 #===============================================================================
 # R code for the paper:
-# Relationship Between Family Functioning and Health-Related Quality of Life
-# among Methadone Maintenance Patients: A Bayesian Approach
+# Title: Relationship Between Family Functioning and Health-Related Quality of Life
+#        among Methadone Maintenance Patients: A Bayesian Approach
+#
+# Author: Khuong Quynh Long, Ong Phuc Thinh, Trinh Thi Kim Thao, Nguyen Van Huy, 
+#         Vu Thi Hoang Lan, Vu Quynh Mai & Hoang Van Minh
+#
+#Link: https://link.springer.com/article/10.1007/s11136-020-02598-z
+
+# For more information, please contact kql@huph.edu.vn
 #===============================================================================
 
 library(tidybayes)
@@ -1061,4 +1068,5 @@ tiff("Supf4_Envir.tiff", units="in", width= 12, height=7, res=600, compression =
 gridExtra::grid.arrange(Supf4a, Supf4c, Supf4b, Supf4d, ncol = 2)
 dev.off()
 
+# Last update: 07 August 2020
 #===============================================================================
